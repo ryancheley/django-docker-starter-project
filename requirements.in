@@ -1,0 +1,11 @@
+black
+celery
+Django
+django-debug-toolbar
+flake8
+gunicorn
+isort
+psycopg
+pip-tools
+redis
+whitenoise
